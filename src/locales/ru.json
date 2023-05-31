@@ -1,0 +1,226 @@
+{
+    "sitename": "FF15",
+    "home": {
+        "welcome": ["Добро", "пожаловать в", "FRIEND FINDER"],
+        "header1": "Настоящий дух соревнований",
+        "desc1": "Сыграй один или с друзьями и испытай свое мастерство в бою против пяти других игроков. Различные форматы турниров не оставят тебя равнодушным!",
+        "header2": "Автоматизация для игроков и организаторов",
+        "desc2": "Игрокам больше не нужно создавать игровое лобби или отправлять скриншоты побед, долой рутину! Организаторам больше не нужен целый штат судей, ручная проверка анкет или выставление результатов. Вы сможете сфокусироваться на проведении трансляции и поиске партнёров/спонсоров и призовых.",
+        "header3": "Заслуженные награды",
+        "desc3": "За участие и победы вам будет начисляться внутренняя валюта, которую вы сможете потратить на цифровые или реальные призы в нашем магазине!"
+    },
+    "faq": {
+        "header": "Часто задаваемые вопросы"
+    },
+    "roles": {
+        "dev": "Разработчик",
+        "admin": "Администратор",
+        "moder": "Модератор",
+        "vip": "Дружелюбный",
+        "judge": "Судья",
+        "sword": "Меченосец",
+        "user": "Пользователь",
+        "streamer": "Стример"
+    },
+    "games": {
+        "lol": "Лига Легенд",
+        "tft": "Team Fight Tactics"
+    },
+    "pages": {
+        "index": "Главная",
+        "profile": "Профиль",
+        "account": "Аккаунт",
+        "settings": "Настройки",
+        "tournaments": "Турниры",
+        "ratings": "Рейтинг",
+        "season-stats": "Статистика",
+        "faq": "FAQ",
+        "contacts": "Контакты",
+        "banners": "Баннеры",
+        "users": "Пользователи"
+    },
+    "match-statuses": {
+        "wait" : "Ожидание",
+        "ready": "Готовы",
+        "process": "В процессе",
+        "end": "Игра закончилась",
+        "technical": "Техническое поражение",
+        "cancel": "Игра отменена администратором",
+        "error": "Неизвестная ошибка",
+        "success": "Подсчитано"
+    },
+    "index": {},
+    "profile": {},
+    "settings": {},
+    "ratings": {},
+    "contacts": {},
+    "tournaments": {
+        "enter-label": "Вступить",
+        "leave-label": "Выйти",
+        "show-label": "Подробнее",
+        "months": [
+            "Янв",
+            "Фев",
+            "Мар",
+            "Апр",
+            "Май",
+            "Июн",
+            "Июл",
+            "Авг",
+            "Сен",
+            "Окт",
+            "Ноя",
+            "Дек"
+        ],
+        "day": "день",
+        "hour": "час",
+        "min": "мин",
+        "sec": "сек",
+        "register-btn": "Зарегистрироваться в турнире",
+        "players-registered": "Игроки",
+        "reg-status-open": "Регистрация открыта",
+        "statuses": {
+            "open":  "Регистрация открыта",
+            "pending": "В ожидании",
+            "balance": "Добор игроков",
+            "create": "Подготовка",
+            "process": "В процессе",
+            "end": "Окончен",
+            "arhive": "Архив"
+        }
+    },
+    "filters": {
+        "all": "Все Форматы",
+        "rtc": "Потасовка",
+        "rtc_se": "РТК SE",
+				"rtc_all": "РТК",
+        "brawl": "Потасовка",
+        "team": "Командный",
+        "team_de": "Командный DЕ",
+        "team_all": "Командный",
+        "types-placeholder": "Все Форматы",
+        "passed-label": "Прошедшие"
+    },
+    "tournament": {
+        "match_not_found": "Матч не найден",
+        "more_type_request": "Можно состоять одновременно только в одном турнире такого типа",
+        "no_minimal_rang": "Ранг не достаточно высок, чтобы вступить",
+        "status": {
+            "open": "Регистрация",
+            "end": "Завершён"
+        },
+        "error_balance": "Ошибка, кушай биобаланс",
+        "start_sub": "Начало",
+        "monthsFull": [
+            "Января",
+            "Февраля",
+            "Марта",
+            "Апреля",
+            "Мая",
+            "Июня",
+            "Июля",
+            "Августа",
+            "Сентября",
+            "Октября",
+            "Ноября",
+            "Декабря"
+        ],
+        "composition_sub": "Состав",
+        "teams_sub": "Команд",
+        "discord_sub": "Наш Discord",
+        "players_sub": "Игроков",
+        "leave_btn": "Выйти",
+        "join_btn": "Присоединиться",
+        "exit_allowed": "Выход",
+        "grid_allowed": "Сетка",
+        "status_sub": "Статус турнира",
+        "discord_null": "Не указан",
+        "now_playing": "Сейчас играют",
+        "reserve_label": "Игроки в резерве",
+        "reg_is_open_label": "Зарегистрированы на турнир",
+        "live_broadcast": "Прямая трансляция",
+        "blue_team": "Blue Team",
+        "red_team": "Red Team",
+        "t_code": "Код турнира",
+        "t_grid": "Сетка турнира",
+        "tt-nickname": "Ник",
+        "tt-streak": "Стрик",
+        "tt-exp": "Опыт",
+        "tt-mmr": "MMR",
+        "tt-site_role": "Роль на сайте",
+        "tt-roles": "Роли",
+        "tt-priority": "Приоритет",
+        "tt-created_at": "Создан",
+        "tt-in_tournaments": "В турнирах",
+        "next-round": "Новый раунд",
+        "delete-last-round": "Удалить раунд"
+    },
+    "header": {
+        "search-ph": "Поиск игроков",
+        "choose-game": "Выбрать игру",
+        "recent-noti": "Последние нотификации"
+    },
+    "navbar": {
+        "main-menu": "Главное меню",
+        "user-data": "Профиль пользователя"
+    },
+    "login": "Вход",
+    "logout": "Выход",
+    "login-modal": {
+        "vkontakte": "Зайти через VK",
+        "twitch": "Зайти через twitch",
+        "discord": "Зайти через discord",
+        "email": "Зайти через email",
+        "continue-with": "Или продолжить через",
+        "close-hint": "Закрыть"
+    },
+    "connectModal": {
+        "header": "Подключенние игрового аккаунта",
+        "create-acc-btn": "Создать аккаунт"
+    },
+    "lol": {
+        "leagues": {
+            "iron": "Железо",
+            "bronze": "Бронза",
+            "silver": "Серебро",
+            "gold": "Золото",
+            "platinum": "Платина",
+            "diamond": "Алмаз",
+            "master": "Мастер",
+            "grandmaster": "Грандмастер",
+            "challenger": "Претендент"
+        }
+    },
+    "avatar-categories": {
+        "default": "Стандартные",
+        "vip": "Дружелюбные",
+        "dev": "Только для разработчиков"
+    },
+    "errors": {
+        "banned": "Забанен",
+        "leave_disable": "Выход из турнира в данный момент запрещен",
+        "wrong_enter_status": "Статус турнира не позволяет присоединиться",
+        "account": {
+            "empty_game": "account.empty_game",
+            "empty_name": "Введи имя в поле ?!",
+            "empty_data": "Данные не введены полностью",
+            "already": "account.already",
+            "empty_session": "account.empty_session",
+            "icon_mismatch": "account.icon_mismatch",
+            "wrong_roles": "account.wrong_roles",
+            "profile_already": "account.profile_already",
+            "rang_mismatch": "account.rang_mismatch",
+            "error_undefined": "account.error_undefined",
+            "summoner_404": "Такого саммонера не существует"
+        },
+        "verify": {
+            "already": "Email уже верифицирован"
+        },
+        "team": {
+            "already_member": "Ошибка! Уже в команде",
+            "not_found": "Ошибка! Такой команды на данный момент не существует",
+            "in_activ_tournament": "Команда сейчас участвует в турнире, не получается"
+        }
+    },
+    "401": "Неавторизован"
+}
